@@ -1,0 +1,20 @@
+{
+  "author": "wondible",
+  "build": "80462",
+  "category": ["lobby"],
+  "context": "client",
+  "date": "2015/04/16",
+  "description": "Stop the new game lobby from loading a system you are not going to use.",
+  "display_name": "No Default System",
+  "forum": null,
+  "identifier": "com.wondible.pa.no_default_system",
+  "priority": 100,
+  "scenes": {
+    "new_game": [
+      "coui://ui/mods/no_default_system/no_default_system.js"
+    ]
+  },
+  "signature": "not yet implemented",
+  "version": "0.1.0"
+}
+
