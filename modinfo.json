@@ -6,7 +6,7 @@
   "date": "2015/04/16",
   "description": "Stop the new game lobby from loading a system you are not going to use.",
   "display_name": "No Default System",
-  "forum": null,
+  "forum": "https://forums.uberent.com/threads/rel-no-default-system.68589/",
   "identifier": "com.wondible.pa.no_default_system",
   "priority": 100,
   "scenes": {
@@ -15,6 +15,6 @@
     ]
   },
   "signature": "not yet implemented",
-  "version": "0.1.0"
+  "version": "1.0.0"
 }
 
